@@ -6,6 +6,11 @@ Este repositório serve como um registro do meu progresso e da minha evolução 
 
 ## Conteúdo das Aulas
 
+### Atalhos IntelliJ
+`sout`: System.out.println();  
+`psvm`: public static void main (String[] args) {};
+
+
 ### Vídeo 1: Como o Java funciona?
 
 Nesta aula, aprendi sobre o fluxo de execução de um programa Java:

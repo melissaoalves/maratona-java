@@ -71,6 +71,8 @@ Os tipos primitivos são a base para armazenar valores simples na memória. Eles
 * `long`: Armazena números inteiros muito grandes (ex: 10000000000L). **Nota:** Requer o sufixo 'L' ou 'l'.
 * `boolean`: Armazena valores booleanos: `true` ou `false`.
 
+---
+
 ### Vídeo 12: Casting
 
 Casting é o processo de converter um valor de um tipo de dado para outro.
@@ -82,3 +84,5 @@ Esse tipo de casting pode resultar em perda de dados ou precisão se o valor ori
 * `long bigNumber = (long) 155.23F`
   * Aqui, um `double` é explicitamente convertido para `long`.
   * A parte decimal (`.23`) será cortada, o que resulta em `155`.
+
+---

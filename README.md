@@ -129,3 +129,19 @@ Nesta aula, revisei sobre operadores lógicos. Esses operadores combinam express
   * Retorna `true` apenas se todas as condições que ele conecta forem `true`. Se qualquer condição for `false`, o resultado é `false`.
 * Operador `||` (OR):
   * Retorna `true` se pelo menos uma das condições que ele conecta for `true`. Retorna `false` apenas se todas as condições forem `false`.
+
+---
+ ### Vídeo 19: Operadores de Atribuição e Unários
+
+Nesta aula, revisei sobre os operadores de atribuição e unários de incremento e decremento.
+
+* Operadores de Atribuição: combinam operação aritmética com atribuição (`=`). É uma forma de diminuir código e atribuir o resultado de volta à mesma variável.
+  * Adição (`+=`): `x += y` é equivalente a `x = x + y`.
+  * Subtração (`-=`): `x -= y` é equivalente a `x = x - y`.
+  * Multiplicação (`*=`): `x *= y` é equivalente a `x = x * y`.
+  * Divisão (`/=`): `x /= y` é equivalente a `x = x / y`.
+  * Módulo (`%=`): `x %= y` é equivalente a `x = x % y`.
+  
+* Operadores Unários de Incremento e Decremento: são usados para aumentar ou diminuir o valor de uma variável numérica em 1.
+  * Pós-incremento/decremento (`count++`, `count--`): o valor da variável é usado na expressão primeiro, e só então é incrementado/decrementado.
+  * Pré-incremento/decremento (`++count`, `--count`): o valor da variável é incrementado/decrementado primeiro, e só então é usado na expressão.

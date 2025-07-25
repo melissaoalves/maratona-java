@@ -51,5 +51,32 @@ public class Aula04Operadores {
         float playstationFiveValue = 5000F;
         boolean isPlaystationFivePurchasable = checkingAccountBalance > savingsAccountBalance || savingsAccountBalance > playstationFiveValue;
         System.out.println("is playstation 5 purchasable? "+ isPlaystationFivePurchasable);
+
+        // = += -= *= /= %=
+        double bonus = 1800;
+        bonus += 1000;
+        System.out.println("Bonus: "+bonus);
+        bonus -= 1000;
+        System.out.println("Bonus: "+bonus);
+        bonus *= 2;
+        System.out.println("Bonus: "+bonus);
+        bonus /= 2;
+        System.out.println("Bonus: "+bonus);
+        bonus %= 2;
+        System.out.println("Bonus: "+bonus);
+
+        int count = 0;
+        count += 1;
+        count++;
+        System.out.println(count);
+        count--;
+        System.out.println(count);
+        ++count;
+        --count;
+        System.out.println(count);
+        int count2 = 0;
+        System.out.println(++count2);
+        int count3 = 0;
+        System.out.println(count3++);
     }
 }

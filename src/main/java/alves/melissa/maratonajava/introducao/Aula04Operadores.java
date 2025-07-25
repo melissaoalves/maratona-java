@@ -36,5 +36,20 @@ public class Aula04Operadores {
         System.out.println("is ten equal to twenty? " + isTenEqualToTwenty);
         System.out.println("is ten equal to ten? " + isTenEqualToTen);
         System.out.println("is ten not equal to ten? " + isTenNotEqualToTen);
+
+        // && (AND) || (OR) !
+        int age = 29;
+        float salary = 3500F;
+        boolean isLegalGreaterThanThirty = age >= 30 && salary >= 4612;
+        boolean isLegalLessThanThirty = age < 30 && salary >= 3381;
+
+        System.out.println("Is legal and greater than thirty? " + isLegalGreaterThanThirty);
+        System.out.println("Is legal and less than thirty? " + isLegalLessThanThirty);
+
+        double checkingAccountBalance = 200;
+        double savingsAccountBalance = 10000;
+        float playstationFiveValue = 5000F;
+        boolean isPlaystationFivePurchasable = checkingAccountBalance > savingsAccountBalance || savingsAccountBalance > playstationFiveValue;
+        System.out.println("is playstation 5 purchasable? "+ isPlaystationFivePurchasable);
     }
 }

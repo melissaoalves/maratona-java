@@ -80,7 +80,7 @@ Nesta aula, aprendi sobre o casting explícito (manual), onde convertemos um tip
 Esse tipo de casting pode resultar em perda de dados ou precisão se o valor original for muito grande ou tiver casas decimais que não cabem no tipo de destino.
 * `int age = (int) 10000000000L`;
   * Aqui eu tento colocar um `long` (10 bilhões) em um int. O `(int)` indica o casting explícito.
-  * Como `10000000000L` excede o valor máximo que um `int` pode armazenar, o resulta é um overflow.
+  * Como `10000000000L` excede o valor máximo que um `int` pode armazenar, o resulta é um `overflow`.
 * `long bigNumber = (long) 155.23F`
   * Aqui, um `double` é explicitamente convertido para `long`.
   * A parte decimal (`.23`) será cortada, o que resulta em `155`.
@@ -145,3 +145,30 @@ Nesta aula, revisei sobre os operadores de atribuição e unários de incremento
 * Operadores Unários de Incremento e Decremento: são usados para aumentar ou diminuir o valor de uma variável numérica em 1.
   * Pós-incremento/decremento (`count++`, `count--`): o valor da variável é usado na expressão primeiro, e só então é incrementado/decrementado.
   * Pré-incremento/decremento (`++count`, `--count`): o valor da variável é incrementado/decrementado primeiro, e só então é usado na expressão.
+
+---
+### Vídeo 20: Estruturas Condicionais (`if`)
+Nesta aula, comecei a ver sobre as estruturas condicionais e revisei sobre o `if`.
+* `if` statement: executa um bloco de código se a condição especificada entre parênteses for avaliada como `true`.
+
+
+* Operador lógico `!` (NOT): se uma condição é `true`, `!condicao` será `false`. Se a condição é `false`, `!condicao` será `true`.
+
+---
+
+### Vídeo 21: Estruturas Condicionais (`else-if`)
+
+Esta aula foi focada na estrutura condicional para lidar com múltiplas condições, o `else-if`.
+* `if-else` statement: permite que o programa avalie uma série de condições em sequência.
+  * O bloco de código associado à primeira condição que for `true` será executado.
+  * Se nenhuma das condições `if` ou `else if` forem `true`, o bloco de código do `else` (se presente) será executado como caso padrão.
+
+---
+
+### Vídeo 22: Estruturas Condicionais (Operador Ternário)
+Nesta aula, revisei sobre operador ternário, uma forma concisa de escrever uma estrutura condicional que retorna um valor com base em uma condição.
+
+
+*Sintaxe do Operador Ternário*: `(condição) ? valorVerdadeiro : valorFalso`
+
+Esse operador avalia a condição. Se a condição for `true`, ele retorna o `valorVerdadeiro`. Caso contrário (se a condição for `false`), ele retorna o `valorFalso`.

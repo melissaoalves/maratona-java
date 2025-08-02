@@ -10,7 +10,7 @@ Todas as anotações detalhadas de cada aula podem ser encontradas na pasta [not
 
 * [Atalhos IntelliJ](notes/AtalhosIntelliJ.md)
 * [Aula 1: Como o Java funciona?](notes/ComoOJavaFunciona.md)
-* [Aula 9: Comentários](notes/Aula09_Comentarios.md)
+* [Aula 9: Comentários](notes/Comentarios.md)
 * [Aula 10: Tipos Primitivos](notes/TiposPrimitivos.md)
 * [Aula 12: Casting](notes/Casting.md)
 * [Aula 15: Operadores Aritméticos](notes/OperadoresAritmeticos.md)
@@ -20,16 +20,16 @@ Todas as anotações detalhadas de cada aula podem ser encontradas na pasta [not
 * [Aula 20: Estruturas Condicionais (`if`)](notes/EstruturasCondicionaisIf.md)
 * [Aula 21: Estruturas Condicionais (`else-if`)](notes/EstruturasCondicionaisElseIf.md)
 * [Aula 22: Estruturas Condicionais (Operador Ternário)](notes/EstruturasCondicionaisTernario.md)
-
+* [Aulas 23 e 24: Estruturas Condicionais (Tabela Verdade)](notes/EstruturasCondicionaisTabelaVerdade.md)
 ---
 
-## 💻 Código Fonte
+## Código Fonte
 
 Os exemplos de código de cada aula podem ser encontrados na pasta `src/`.
 
 ---
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 * **IDE:** IntelliJ IDEA
 * **Anotações:** Obsidian

@@ -5,3 +5,5 @@ Nesta aula, revisei sobre operador ternário, uma forma concisa de escrever uma 
 * **Sintaxe do Operador Ternário**: `(condição) ? valorVerdadeiro : valorFalso`
 
 Esse operador avalia a condição. Se a condição for `true`, ele retorna o `valorVerdadeiro`. Caso contrário (se a condição for `false`), ele retorna o `valorFalso`.
+
+Next class: [[EstruturasCondicionaisTabelaVerdade|Tabela Verdade]]

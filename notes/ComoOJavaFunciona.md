@@ -3,6 +3,7 @@
 Nesta aula, aprendi sobre o fluxo de execução de um programa Java:
 
 ![Fluxo Java](../notes/assets/fluxoJava.png)
+![Fluxo Java](../assets/fluxoJava.png)
 
 1.  Temos um arquivo `.java` (código fonte).
 2.  Quando compilado, ele se transforma em um arquivo `.class` (chamado de **bytecode**).

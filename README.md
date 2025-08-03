@@ -21,6 +21,8 @@ Todas as anotações detalhadas de cada aula podem ser encontradas na pasta [not
 * [Aula 21: Estruturas Condicionais (`else-if`)](notes/EstruturasCondicionaisElseIf.md)
 * [Aula 22: Estruturas Condicionais (Operador Ternário)](notes/EstruturasCondicionaisTernario.md)
 * [Aulas 23 e 24: Estruturas Condicionais (Tabela Verdade)](notes/EstruturasCondicionaisTabelaVerdade.md)
+* [Aula 25: Estruturas Condicionais (`switch`)](notes/EstruturasCondicionaisSwitch.md)
+* [Aula 27: Laços de Repetição (`do`, `do-while`, `for`)](notes/EstruturasCondicionaisSwitch.md)
 ---
 
 ## Código Fonte

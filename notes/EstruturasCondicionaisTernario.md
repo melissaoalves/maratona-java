@@ -6,4 +6,4 @@ Nesta aula, revisei sobre operador ternário, uma forma concisa de escrever uma 
 
 Esse operador avalia a condição. Se a condição for `true`, ele retorna o `valorVerdadeiro`. Caso contrário (se a condição for `false`), ele retorna o `valorFalso`.
 
-Next class: [[EstruturasCondicionaisTabelaVerdade|Tabela Verdade]]
+##### Next class: [[EstruturasCondicionaisTabelaVerdade|Tabela Verdade]]

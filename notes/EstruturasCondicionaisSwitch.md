@@ -18,3 +18,6 @@ Nesta aula, revisei sobre a estrutura condicional `switch`, uma alternativa para
         
     - `default`: opcional, este bloco é executado se nenhum dos `cases` anteriores corresponder ao valor da variável. É útil para tratar valores inesperados ou inválidos.
 
+##### Next class: [[EstruturasDeRepeticao|Estruturas de Repetição]]
+
+

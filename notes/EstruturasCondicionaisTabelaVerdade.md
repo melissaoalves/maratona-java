@@ -31,3 +31,4 @@ O operador `||` retorna `true` se **pelo menos uma** das condições que ele con
 | `true` | `false` | `true` |
 | `false` | `true` | `true` |
 | `false` | `false` | `false` |
+##### Next class: [[EstruturasCondicionaisSwitch|Estruturas Condicionais (Switch)]]
